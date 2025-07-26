@@ -1,2 +1,2 @@
 # personal_portfolio
- a personal webite to showcase about me
+ a personal website to showcase about me
